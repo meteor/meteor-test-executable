@@ -1,6 +1,6 @@
 {
   "name": "meteor-test-executable",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "used by meteor's self-test",
   "main": "index.js",
   "repository": {

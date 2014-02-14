@@ -5,5 +5,6 @@ exports.doIt = function () {
   child_process.execFile(path.join(__dirname, 'script.sh'),
                          function (error, stdout, stderr) {
                            process.stdout.write(error + "; " + stdout);
+                           process.exit(0);
                          });
 };
