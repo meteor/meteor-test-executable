@@ -1,0 +1,16 @@
+{
+  "name": "meteor-test-executable",
+  "version": "0.0.0",
+  "description": "used by meteor's self-test",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meteor/meteor-test-executable"
+  },
+  "author": "glasser@meteor.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meteor/meteor-test-executable/issues"
+  },
+  "homepage": "https://github.com/meteor/meteor-test-executable"
+}
