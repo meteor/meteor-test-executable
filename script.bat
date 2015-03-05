@@ -1,0 +1,2 @@
+echo From shell script
+
